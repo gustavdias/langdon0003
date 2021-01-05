@@ -1,7 +1,7 @@
  
 > #### <samp>A ship in harbor is safe, but that is not what ships are built for.
 > 
-> ####### `John A. Shedd - 1928`
+> ###### `John A. Shedd - 1928`
 
 # Hey! I'm  Long <img src="https://github.com/langdon0003/langdon0003/blob/main/handwave.gif" width="42" height="42">
 <samp>Front-end Web Developer interested in UI/UX and FinTech
